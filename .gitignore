@@ -1,0 +1,13 @@
+# Segreti: la chiave API non deve mai finire su GitHub
+.env
+
+# Ambiente Python
+.venv/
+__pycache__/
+*.pyc
+
+# Checkpoint dei notebook
+.ipynb_checkpoints/
+
+# File di sistema
+.DS_Store
