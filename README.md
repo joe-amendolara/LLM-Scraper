@@ -16,7 +16,7 @@ My exercises for the **AI Engineer Core Track** (Ed Donner's LLM Engineering cou
 
 ## How to run them
 
-1. Install the libraries: `pip install openai python-dotenv requests beautifulsoup4 ipython`
+1. Install the libraries: `pip install openai python-dotenv requests beautifulsoup4 ipykernel`
 2. Create a `.env` file in the root folder containing `OPENAI_API_KEY=sk-proj-...`
 3. Open a notebook in Cursor, select the `.venv` kernel and run the cells from top to bottom.
 
