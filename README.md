@@ -9,6 +9,7 @@ I miei esercizi del corso **AI Engineer Core Track** (LLM Engineering di Ed Donn
 | File | Cosa contiene |
 | --- | --- |
 | [week1/day1.ipynb](week1/day1.ipynb) | Guida illustrata per replicare il laboratorio Day 1: un riassuntore di siti web con GPT |
+| [week1/day1_en.ipynb](week1/day1_en.ipynb) | The same illustrated guide, in English |
 | [week1/day1_email_subjects.ipynb](week1/day1_email_subjects.ipynb) | La mia soluzione all'esercizio di Ed: incolli un'email e GPT propone 3 oggetti e un riassunto |
 | [week1/day1_aviatrix.ipynb](week1/day1_aviatrix.ipynb) | Riassunto strutturato della documentazione di [docs.aviatrix.com](https://docs.aviatrix.com/), con un bonus su `llms.txt` |
 | [week1/scraper.py](week1/scraper.py) | Lo scraper usato dal laboratorio, basato su quello di Ed |
