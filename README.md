@@ -8,9 +8,8 @@ My exercises for the **AI Engineer Core Track** (Ed Donner's LLM Engineering cou
 
 | File | What's inside |
 | --- | --- |
-| [week1/day1_en.ipynb](week1/day1_en.ipynb) | Illustrated step-by-step guide to rebuilding the Day 1 lab: a website summarizer powered by GPT |
+| [week1/day1_en.ipynb](week1/day1_en.ipynb) | Ed Donner's Day 1 lab, step by step: same code, models and exercises, with setup instructions, illustrations and checks |
 | [week1/day1.ipynb](week1/day1.ipynb) | The same guide, in Italian |
-| [week1/day1_email_subjects.ipynb](week1/day1_email_subjects.ipynb) | My solution to Ed's exercise: paste an email and GPT suggests 3 subject lines plus a one-line summary (Italian) |
 | [week1/day1_aviatrix.ipynb](week1/day1_aviatrix.ipynb) | GPT as a senior network and security engineer: a technical overview of the [Aviatrix docs](https://docs.aviatrix.com/) and a deep dive into Aviatrix security (DCF, egress, SmartGroups, WebGroups, TLS inspection), with a bonus on `llms.txt` |
 | [week1/scraper.py](week1/scraper.py) | The scraper used by the lab, based on Ed's |
 
