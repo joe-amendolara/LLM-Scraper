@@ -1,25 +1,25 @@
-<img src="assets/day1_banner.png" alt="Il riassuntore di siti web" width="100%">
+<img src="assets/day1_banner_en.png" alt="The Website Summarizer" width="100%">
 
 # LLM-Scraper
 
-I miei esercizi del corso **AI Engineer Core Track** (LLM Engineering di Ed Donner).
+My exercises for the **AI Engineer Core Track** (Ed Donner's LLM Engineering course).
 
 ## Week 1
 
-| File | Cosa contiene |
+| File | What's inside |
 | --- | --- |
-| [week1/day1.ipynb](week1/day1.ipynb) | Guida illustrata per replicare il laboratorio Day 1: un riassuntore di siti web con GPT |
-| [week1/day1_en.ipynb](week1/day1_en.ipynb) | The same illustrated guide, in English |
-| [week1/day1_email_subjects.ipynb](week1/day1_email_subjects.ipynb) | La mia soluzione all'esercizio di Ed: incolli un'email e GPT propone 3 oggetti e un riassunto |
-| [week1/day1_aviatrix.ipynb](week1/day1_aviatrix.ipynb) | Riassunto strutturato della documentazione di [docs.aviatrix.com](https://docs.aviatrix.com/), con un bonus su `llms.txt` |
-| [week1/scraper.py](week1/scraper.py) | Lo scraper usato dal laboratorio, basato su quello di Ed |
+| [week1/day1_en.ipynb](week1/day1_en.ipynb) | Illustrated step-by-step guide to rebuilding the Day 1 lab: a website summarizer powered by GPT |
+| [week1/day1.ipynb](week1/day1.ipynb) | The same guide, in Italian |
+| [week1/day1_email_subjects.ipynb](week1/day1_email_subjects.ipynb) | My solution to Ed's exercise: paste an email and GPT suggests 3 subject lines plus a one-line summary (Italian) |
+| [week1/day1_aviatrix.ipynb](week1/day1_aviatrix.ipynb) | A structured summary of the [docs.aviatrix.com](https://docs.aviatrix.com/) documentation, with a bonus on `llms.txt` (Italian) |
+| [week1/scraper.py](week1/scraper.py) | The scraper used by the lab, based on Ed's |
 
-## Come eseguirli
+## How to run them
 
-1. Installa le librerie: `pip install openai python-dotenv requests beautifulsoup4 ipython`
-2. Crea un file `.env` nella cartella principale con la riga `OPENAI_API_KEY=sk-proj-...`
-3. Apri il notebook in Cursor, scegli il kernel `.venv` ed esegui le celle dall'alto verso il basso.
+1. Install the libraries: `pip install openai python-dotenv requests beautifulsoup4 ipython`
+2. Create a `.env` file in the root folder containing `OPENAI_API_KEY=sk-proj-...`
+3. Open a notebook in Cursor, select the `.venv` kernel and run the cells from top to bottom.
 
-Il file `.env` è escluso dal repository tramite `.gitignore`.
+The `.env` file is excluded from the repository by `.gitignore`.
 
-Basato sul corso di Ed Donner: [ed-donner/llm_engineering](https://github.com/ed-donner/llm_engineering).
+Based on Ed Donner's course: [ed-donner/llm_engineering](https://github.com/ed-donner/llm_engineering).
